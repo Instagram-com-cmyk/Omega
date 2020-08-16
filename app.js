@@ -4,14 +4,14 @@
 ///Edit Under This only
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAj5XQIX-rqziAJlya0XskjVneq49vcIgA",
-  authDomain: "instafollowers-ecm.firebaseapp.com",
-  databaseURL: "https://instafollowers-ecm.firebaseio.com",
-  projectId: "instafollowers-ecm",
-  storageBucket: "instafollowers-ecm.appspot.com",
-  messagingSenderId: "705899969473",
-  appId: "1:705899969473:web:f055f2c2c583f6e7bc0d40",
-  measurementId: "G-BXWYHC6THG"
+  apiKey: "AIzaSyDLai4d4glK6htOetLpAjVKGNShH31hxLk",
+  authDomain: "donbhai-1234.firebaseapp.com",
+  databaseURL: "https://donbhai-1234.firebaseio.com",
+  projectId: "donbhai-1234",
+  storageBucket: "donbhai-1234.appspot.com",
+  messagingSenderId: "1007182429523",
+  appId: "1:1007182429523:web:aeec83ddc488e1973ef5a6",
+  measurementId: "G-3NCS6L4TXN"
 };
 
      
